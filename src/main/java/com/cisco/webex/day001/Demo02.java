@@ -1,4 +1,4 @@
-package com.cisco.webex;
+package com.cisco.webex.day001;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
